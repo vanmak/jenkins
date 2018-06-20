@@ -1,0 +1,9 @@
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\SeleniumForJenkins\SeleniumForJenkins\obj\Debug\SeleniumForJenkins.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\SeleniumForJenkins\SeleniumForJenkins\bin\Debug\SeleniumForJenkins.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\SeleniumForJenkins\SeleniumForJenkins\bin\Debug\SeleniumForJenkins.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\SeleniumForJenkins\SeleniumForJenkins\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\SeleniumForJenkins\SeleniumForJenkins\bin\Debug\WebDriver.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\SeleniumForJenkins\SeleniumForJenkins\bin\Debug\WebDriver.xml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\SeleniumForJenkins\SeleniumForJenkins\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\SeleniumForJenkins\SeleniumForJenkins\obj\Debug\SeleniumForJenkins.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\SeleniumForJenkins\SeleniumForJenkins\obj\Debug\SeleniumForJenkins.pdb
